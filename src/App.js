@@ -181,7 +181,7 @@ export default function App() {
   const [passwordInput, setPasswordInput] = useState("");
   const [loginError, setLoginError] = useState(false);
 
-  const ADMIN_PASSWORD = "fclr1994";
+  const ADMIN_PASSWORD = "*fclr1994@";
 
   // --- DONNÉES DU TOURNOI ---
   const [pointsConfig, setPointsConfig] = useState({
